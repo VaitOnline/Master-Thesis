@@ -13,5 +13,5 @@ This project is divided into five main steps:
 5. **Computation of similarity:** Applies a SED-matching and Mutual Nearest Neighbor (MNN) based metric to create a dictionary ranking sources by pairwise similarity.
 
 ## 🚀 Content
-* `[Remplace_avec_le_nom_de_ton_fichier].ipynb` : The main Jupyter Notebook containing the complete pipeline (from data preprocessing to the final similarity ranking).
+* `[Multiple_Images_Detection].ipynb` : The main Jupyter Notebook containing the complete pipeline (from data preprocessing to the final similarity ranking).
 * `README.md` : This documentation file.
